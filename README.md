@@ -9,4 +9,4 @@ Jhone is a Fullstack Developer with expertise in managing the completion of proj
 
 #
 ![](https://github-readme-stats.vercel.app/api?username=jhonedarts&theme=solarized-light&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonedarts&theme=solarized-light&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonedarts&theme=solarized-light&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
