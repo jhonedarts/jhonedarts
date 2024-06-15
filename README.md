@@ -6,6 +6,5 @@ Jhone is a Fullstack Developer with expertise in managing the completion of proj
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonedarts)
 
-
 #
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonedarts&theme=solarized-light&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonedarts&theme=solarized-light&hide_border=true&exclude_days=Sun%2CSat&card_width=846)](https://git.io/streak-stats)
